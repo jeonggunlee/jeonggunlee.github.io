@@ -5,7 +5,11 @@ Short Bio.
 
 1. WORK
 - Dept. of Computer Engineering, Hallym University, South Korea
-    - Professor, March 2008 ~ Present
+    - Assistant Professor, March 2008 ~ February 2012 
+    - Associate Professor, March 2012 ~ February 2017
+    - Director of Entrepreneurship Education Center , September 2015 ~ August 2017
+    - Director of Smart Computing Lab. , January 2016 ~ August 2017
+    - Tenured Full Professor, March 2017 ~ Present
     - Department Chair, Feb. 2018 ~ Present
 
 2. EDUCATION
