@@ -1,5 +1,5 @@
 Welcome to Dr Jeong-Gun Lee's Page
-#### You Can Find a formal homepage at [Here](https://www.onchip.net "Dr Lee's Homepage")
+#### You Can Find a formal homepage at [Here](http://www.onchip.net "Dr Lee's Homepage")
 
 =============
 
