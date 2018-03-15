@@ -1,4 +1,5 @@
 Welcome to Dr Jeong-Gun Lee's Page
+You Can Find a formal homepage at www.onchip.net
 =============
 Short Bio.
 > Jeong-Gun Lee received his B.S. degree in computer engineering from Hallym University in 1996, and M.S. and Ph.D degree from Gwangju Institute of Science and Technology (GIST), Korea, in 1998 and 2005. Currently, he is a Full Professor in the department of computer engineering at Hallym University. Prior to joining the faculty of Hallym University in 2008, he was a visiting postdoctoral researcher of the Computer Lab. at the University of Cambridge and a research professor at GIST, respectively. In 2014, he was a visiting scholar of the Computer Lab. at the University of Cambridge. His research interests focus on low EMI asynchronous circuit designs, FPGA based reconfigurable system designs, energy efficient heterogeneous computing, and GPU based parallel computing.
