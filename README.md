@@ -5,7 +5,7 @@ Short Bio.
 
 1. WORK
 - Dept. of Computer Engineering, Hallym University, South Korea
-  Professor, March 2008 ~ Present / Department Chair, Feb. 2018 ~ Present
+    - Professor, March 2008 ~ Present / Department Chair, Feb. 2018 ~ Present
 
 2. EDUCATION
 - ME and Ph.D. from Gwangju Institute of Science and Technology, South Korea
