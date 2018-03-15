@@ -1,5 +1,5 @@
 Welcome to Dr Jeong-Gun Lee's Page
-#### You Can Find a formal homepage at [Here](www.onchip.net)
+#### You Can Find a formal homepage at [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 =============
 
