@@ -14,12 +14,16 @@ Short Bio.
     - Director of Smart Computing Lab. , January 2016 ~ August 2017
     - Tenured Full Professor, March 2017 ~ Present
     - Department Chair, Feb. 2018 ~ Present
+    
 - Visiting Scholar (Sabbatical) @ Computer Lab, Univ. of Cambridge, 13 Jan. 2014 ~ 13 Jan. 2015  
+
 - Gwangju Institute of Science and Technology, South Korea
     - Communications & Sensor Networks Lab, Dept. of Information & Communications
     - Research Professor, August 2007 ~ February, 2008
+    
 - University of Cambridge, United Kingdom
     - Post-Doc Fellow, May 2005 ~ June 2007 :  Computer Architecture Group, Computer Lab.
+    
 - University of California, Los Angles, USA (Host Professor : Prof. Milos D. Ercegovac)
     - Dept. of Computer Science, Visiting scholar, 6 Mar 2006 ~ 11 April 2006
     - Work on Adder Arithmetic Optimization through Mathematical Programming
