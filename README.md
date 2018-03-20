@@ -6,7 +6,7 @@ Welcome to Dr Jeong-Gun Lee's Page
 Short Bio.
 > Jeong-Gun Lee received his B.S. degree in computer engineering from Hallym University in 1996, and M.S. and Ph.D degree from Gwangju Institute of Science and Technology (GIST), Korea, in 1998 and 2005. Currently, he is a Full Professor in the department of computer engineering at Hallym University. Prior to joining the faculty of Hallym University in 2008, he was a visiting postdoctoral researcher of the Computer Lab. at the University of Cambridge and a research professor at GIST, respectively. In 2014, he was a visiting scholar of the Computer Lab. at the University of Cambridge. His research interests focus on low EMI asynchronous circuit designs, FPGA based reconfigurable system designs, energy efficient heterogeneous computing, and GPU based parallel computing.
 
-1. WORK
+1 WORK
 - Dept. of Computer Engineering, Hallym University, South Korea
     - Assistant Professor, March 2008 ~ February 2012 
     - Associate Professor, March 2012 ~ February 2017
@@ -29,12 +29,12 @@ Short Bio.
     - Work on Adder Arithmetic Optimization through Mathematical Programming
 
 
-2. EDUCATION
+2 EDUCATION
 - ME and Ph.D. from Gwangju Institute of Science and Technology, South Korea
 - BS from Hallym University, South Korea (March 1992 - February 1996)
 
 
-3. Lecture & Talk 
+3 Lecture & Talk 
  - 2004 : Talk, A Low Latency Asynchronous FIFO Combining a Wave Pipeline with Handshake Scheme, 2004 GIST / Tokyo University Joint Workshop on Asynchronous System Design, University of Tokyo, Tokyo, Japan
  - Jan. 2005 : Talk, Issues of Asynchronous Distributed Control and Variable Delay Computation for High Performance System Design, GIST / Univ. of Osaka Joint Workshop, Jeju Island, South Korea
   - 7 – 8 Mar. 2005 : Lecturer, Arithmetic Algorithms & Their Design Space Exploration, Integrated circuit Design Education Center (IDEC) located in Chonnam National University, South Korea
